@@ -1,6 +1,15 @@
 # Machine-Learning-Dimension-Reduction
 BTK AKADEMY Training eğitimleri kapsamında hazırlanan jupyter Notebooklar bulunmaktadır.
 
+İŞLENEN KONULAR :
+
+1. 202200501_Boyut İndirgeme Analizi (PCA-LDA).ipynb çalışmasında ;
+   A. STANDART SACALING İLE ÖLÇEKLEME 
+   B. PCA İLE BOYUT KÜÇÜLTME
+   C. LDA İLE BOYUT KÜÇÜLTME
+   D. LOGISTIC REGRESYON İLE LDA VE PCA SINIFLANDIRMA
+   E. CONFUSION MATRIX İLE KARMAŞIKLIK MATRİSİ
+
 #                     BOYUT İNDİRGEME  / DIMENSION REDUCTION                 :
 ------------------------------------------------------------------------------
 1. BOYUT DÖNÜŞTÜRME GEREKSİZ BOYUTLARDAN KURTULMA VEYA BAZILARINI BİRLEŞTİRME 
